@@ -132,3 +132,4 @@
 /Users/dinesh/Documents/VSCODE/Dotnet/DatingApp/API/bin/Debug/net8.0/AutoMapper.dll
 /Users/dinesh/Documents/VSCODE/Dotnet/DatingApp/API/bin/Debug/net8.0/CloudinaryDotNet.dll
 /Users/dinesh/Documents/VSCODE/Dotnet/DatingApp/API/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/dinesh/Documents/VSCODE/Dotnet/DatingApp/API/obj/Debug/net8.0/API.sourcelink.json
